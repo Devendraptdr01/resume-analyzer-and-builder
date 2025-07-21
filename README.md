@@ -42,7 +42,7 @@ This project aims to help job seekers understand how their resumes align with ta
     </td>
     <td align="center">
       <a href="https://github.com/AisheeD236">
-        <img src="https://avatars.githubusercontent.com/u/193918373?v=4" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/193918373?v=4" width="100px;" alt=""/>
         <br />
         <sub><b>Aishee</b></sub>
       </a>
