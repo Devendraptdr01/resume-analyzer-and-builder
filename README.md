@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mubinaakter/resume-analyze/blob/main/static/images/logo.png?raw=true" alt="Resume Analyzer Logo" width="550" style="background-color: white; padding: 10px; border-radius: 8px;" />
+  <img src="https://github.com/mubinaakter/resume-analyze/blob/main/static/images/logo.png?raw=true" alt="Resume Analyzer Logo" width="550" style="background-color: #FFFFFF; padding: 10px; border-radius: 8px;" />
 </p>
 
 # 📄 Resume Analyzer
@@ -34,7 +34,7 @@ This project empowers users to confidently **analyze, match, and build resumes**
 - **Machine Learning / NLP:** `nltk`, `scikit-learn`, `spacy`
 - **PDF & DOCX Parsing:** `pdfminer3`, `docx2txt`
 - **Database:** MySQL
-- **Deployment:** Render / Heroku / Local Server
+- **Deployment:** Render / Local Server
 
 ---
 
