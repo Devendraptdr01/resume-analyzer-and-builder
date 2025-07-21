@@ -28,3 +28,32 @@ This project aims to help job seekers understand how their resumes align with ta
 - **Deployment:** Streamlit Cloud / Local
 
 ---
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mubinaakter">
+        <img src="https://avatars.githubusercontent.com/u/193683660?v=4" width="100px;" alt=""/>
+        <br />
+        <sub><b>Md. Ratan Ali</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/teammate1">
+        <img src="https://avatars.githubusercontent.com/teammate1" width="100px;" alt=""/>
+        <br />
+        <sub><b>Teammate 1</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/teammate2">
+        <img src="https://avatars.githubusercontent.com/teammate2" width="100px;" alt=""/>
+        <br />
+        <sub><b>Teammate 2</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
