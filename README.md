@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mubinaakter/resume-analyze/blob/main/static/images/logo.png?raw=true" alt="Resume Analyzer Logo" width="250"/>
+  <img src="https://github.com/mubinaakter/resume-analyze/blob/main/static/images/logo.png?raw=true" alt="Resume Analyzer Logo" width="550" style="background-color: white; padding: 10px; border-radius: 8px;" />
 </p>
 
 # 📄 Resume Analyzer
