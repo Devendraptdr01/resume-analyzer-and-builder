@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://github.com/mubinaakter/resume-analyze/blob/main/static/images/logo.png?raw=true" alt="Resume Analyzer Logo" width="450"/>
+  <img src="https://github.com/mubinaakter/resume-analyze/blob/main/static/images/logo.png?raw=true" alt="Resume Analyzer Logo" width="250"/>
 </p>
-#
-**Resume Analyzer** is a **Flask and Machine Learning web application** with three core features:
 
-✅ **Resume Analyze** – Evaluates user resumes using NLP and ML, providing clear scores and actionable suggestions to improve resumes effectively.
+# 📄 Resume Analyzer
 
-✅ **Resume Match** – Compares multiple resumes against a specific job description using TF-IDF and cosine similarity, helping identify which resume best fits the job for applicants or employers.
+**Resume Analyzer** is a **Flask and Machine Learning-based web application** with three core features designed to assist job seekers and HR professionals:
 
-✅ **Resume Builder** – Allows users to easily create clean, professional resumes directly within the app, ensuring their resumes are structured and ready for job applications.
+- ✅ **Resume Analyze:** Evaluates resumes using NLP and ML techniques, providing clear scores and actionable suggestions for improvement.
+- ✅ **Resume Match:** Compares multiple resumes against a job description using TF-IDF and cosine similarity to identify the best fit.
+- ✅ **Resume Builder:** Enables users to create professional, well-structured resumes easily within the app.
 
-This project helps students, job seekers, and HR teams **analyze, match, and build resumes confidently**, aligning them with targeted job requirements for better opportunities.
+This project empowers users to confidently **analyze, match, and build resumes**, aligning them effectively with job requirements for better career opportunities.
 
 ---
 
