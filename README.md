@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/mubinaakter/resume-analyze/blob/main/static/images/logo.png?raw=true" alt="Resume Analyzer Logo" width="450"/>
 </p>
-
+#
 **Resume Analyzer** is a **Flask and Machine Learning web application** with three core features:
 
 ✅ **Resume Analyze** – Evaluates user resumes using NLP and ML, providing clear scores and actionable suggestions to improve resumes effectively.
