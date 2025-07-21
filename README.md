@@ -35,21 +35,21 @@ This project aims to help job seekers understand how their resumes align with ta
   <tr>
     <td align="center">
       <a href="https://github.com/mubinaakter">
-        <img src="https://avatars.githubusercontent.com/u/193683660?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/193683660?v=4" width="80px;" alt=""/>
         <br />
         <sub><b>Mubina Akter</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/AisheeD236">
-        <img src="https://avatars.githubusercontent.com/u/193918373?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/193918373?v=4" width="80px;" alt=""/>
         <br />
         <sub><b>Aishee</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/teammate2">
-        <img src="https://avatars.githubusercontent.com/teammate2" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/teammate2" width="80px;" alt=""/>
         <br />
         <sub><b>Teammate 2</b></sub>
       </a>
