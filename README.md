@@ -1,31 +1,38 @@
 # 📄 Resume Analyzer
 
-Resume Analyzer is an intelligent tool that leverages **Natural Language Processing (NLP)** to extract structured information from resumes, identify and cluster important keywords, and provide actionable recommendations to improve resumes for targeted sectors.
+**Resume Analyzer** is a **Flask and Machine Learning web application** with three core features:
 
-This tool helps job seekers **understand how their resumes align with specific industry sectors, visualize keyword analytics, and improve career planning** through clear, personalized insights.
+✅ **Resume Analyze** – Evaluates user resumes using NLP and ML, providing clear scores and actionable suggestions to improve resumes effectively.
+
+✅ **Resume Match** – Compares multiple resumes against a specific job description using TF-IDF and cosine similarity, helping identify which resume best fits the job for applicants or employers.
+
+✅ **Resume Builder** – Allows users to easily create clean, professional resumes directly within the app, ensuring their resumes are structured and ready for job applications.
+
+This project helps students, job seekers, and HR teams **analyze, match, and build resumes confidently**, aligning them with targeted job requirements for better opportunities.
 
 ---
 
 ## ✨ Features
 
+✅ Analyze resumes using NLP and ML to provide clear scores and improvement suggestions  
+✅ Match multiple resumes against a specific job description to find the best-fit resume  
 ✅ Extract structured data (name, email, phone, education, skills) from PDF and DOCX resumes  
-✅ Identify and highlight important keywords automatically  
-✅ Cluster keywords into relevant sectors for visualization  
-✅ Provide personalized resume improvement recommendations  
-✅ Predict applicant fit based on keyword and sector matching  
-✅ Display analytics and keyword insights  
-✅ Simple, clean **Streamlit interface** for easy upload and analysis
+✅ Highlight important keywords and missing keywords for targeted job matching  
+✅ Provide personalized, actionable feedback to enhance resume quality  
+✅ Allow users to build professional, structured resumes directly within the app  
+✅ Display matching scores and keyword insights to guide applicants effectively  
+✅ Simple, clean **Flask web interface** for easy upload, analysis, matching, and building
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Streamlit
-- **Backend:** Python
-- **NLP Libraries:** `nltk`, `spacy`, `pyresparser`
-- **PDF Parsing:** `pdfminer3`
+- **Frontend:** HTML, CSS, Bootstrap (via Flask templates)
+- **Backend:** Python (Flask)
+- **Machine Learning / NLP:** `nltk`, `scikit-learn`, `spacy`
+- **PDF & DOCX Parsing:** `pdfminer3`, `docx2txt`
 - **Database:** MySQL
-- **Deployment:** Streamlit Cloud / Local
+- **Deployment:** Render / Heroku / Local Server
 
 ---
 
