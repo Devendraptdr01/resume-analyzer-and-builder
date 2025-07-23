@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/mubinaakter/resume-analyze/blob/main/static/images/logo.png?raw=true" alt="Resume Analyzer Logo" width="550" style="background-color: #FFFFFF; padding: 10px; border-radius: 8px;" />
-</p>
+<!-- <p align="center">
+  <img src="static/images/logo.png" alt="Resume Analyzer Logo" width="400" style="background-color: #FFFFFF; padding: 10px; border-radius: 8px;" />
+</p> -->
 
 # 📄 Resume Analyzer
 
@@ -32,13 +32,17 @@ This project empowers users to confidently **analyze, match, and build resumes**
 - **Frontend:** HTML, CSS, Bootstrap (via Flask templates)
 - **Backend:** Python (Flask)
 - **Machine Learning / NLP:** `nltk`, `scikit-learn`, `spacy`
-- **PDF & DOCX Parsing:** `pdfminer3`, `docx2txt`
-- **Database:** MySQL
-- **Deployment:** Render / Local Server
+- **PDF & DOCX Parsing:** `pdfminer.six`, `docx2txt`, `python-docx`
+- **Database:** SQLite (default, can be configured)
+- **Deployment:** Local Server / Render
 
 ---
 
-## 👥 Developer
-<table> <tr> <td align="center"> <a href="https://github.com/mubinaakter"> <img src="https://avatars.githubusercontent.com/u/193683660?v=4" width="80px;" alt="Mubina Akter"/> <br /> <sub><b>Mubina Akter</b></sub> </a> </td> <td align="center"> <a href="https://github.com/AisheeD236"> <img src="https://avatars.githubusercontent.com/u/193918373?v=4" width="80px;" alt="Aishee"/> <br /> <sub><b>Aishee</b></sub> </a> </td> <td align="center"> <a href="https://github.com/teammate2"> <img src="https://avatars.githubusercontent.com/teammate2" width="80px;" alt="Teammate 2"/> <br /> <sub><b>Teammate 2</b></sub> </a> </td> </tr> </table>
+## 👤 Developer
+
+Developed and maintained by **[Devendra patidar]**  
+[GitHub Profile](https://github.com/your-github-username)
 
 ---
+
+> _This is a personal project. All rights reserved._
